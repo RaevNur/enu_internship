@@ -44,3 +44,5 @@ INSERT INTO users (username,firstname,lastname,email,password,created_at) VALUES
 	 ('567432098769','Sophia','Davis','sophiadavis@example.com','$2a$10$i6RPPHA95dB.F8KkiNQ1C.DSeZGdRMdc7BBPlkMPfg9nvSAqWTfxy','2023-05-23 11:09:57'),
 	 ('786543209876','Jacob','Wilson','jacobwilson@example.com','$2a$10$i6RPPHA95dB.F8KkiNQ1C.DSeZGdRMdc7BBPlkMPfg9nvSAqWTfxy','2023-05-23 11:09:57'),
 	 ('564327891532','Mia','Moore','miamoore@example.com','$2a$10$i6RPPHA95dB.F8KkiNQ1C.DSeZGdRMdc7BBPlkMPfg9nvSAqWTfxy','2023-05-23 11:09:57');
+
+	 -- пароль для пользователей 123456
